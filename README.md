@@ -39,11 +39,8 @@ using exponential smoothing methods.
 ## 🚀 How to Run
 1. Clone the repository
 2. Install required libraries
-3. Run notebooks in order:
-   - Data_preparation1.ipynb
-   - Data_Visualisation1.ipynb
-   - ExponentialSmoothing.ipynb
-
+3. Run notebooks in required order:
+   
 ## 📌 Future Improvements
 - ARIMA / SARIMA models
 - Model comparison using RMSE
