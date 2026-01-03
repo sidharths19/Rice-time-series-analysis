@@ -39,7 +39,14 @@ using exponential smoothing methods.
 ## 🚀 How to Run
 1. Clone the repository
 2. Install required libraries
-3. Run notebooks in required order:
+3. For Exponential Smoothing
+     Run notebooks in the order:
+      1. data preparation
+      2. exponential smoothing
+4. For converting series to stationary
+     run in the order
+      1. data preparation
+      2. data visualisation
    
 ## 📌 Future Improvements
 - ARIMA / SARIMA models
